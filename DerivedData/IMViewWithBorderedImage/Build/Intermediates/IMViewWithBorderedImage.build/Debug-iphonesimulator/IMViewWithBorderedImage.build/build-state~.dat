@@ -1,0 +1,359 @@
+TIMViewWithBorderedImage
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Info.plist IMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist
+cProcessPCH /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch.pth IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/main.o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewController.o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMAppDelegate.o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage normal i386
+cGenerateDSYMFile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app.dSYM /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage
+cCopyStringsFile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/InfoPlist.strings IMViewWithBorderedImage/en.lproj/InfoPlist.strings
+cCpResource IMViewWithBorderedImage/Default.png DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default.png
+cCpResource IMViewWithBorderedImage/Default@2x.png DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default@2x.png
+cCpResource IMViewWithBorderedImage/Default-568h@2x.png DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default-568h@2x.png
+cCompileXIB /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPhone.xib
+cCompileXIB /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPad.xib
+cTouch /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505A25E70000000000228FD0
+t1348085223
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505A25E800000000003DCEF0
+t1348085224
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505A25E700000000000015F7
+t1348085223
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000505A25EB0000000000000E8D
+t1348085227
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505A25ED0000000000AB3D60
+t1348085229
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000505A25FA0000000000001B54
+t1348085242
+s6996
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMAppDelegate.o
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewController.o
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.LinkFileList
+c0000000050660EA00000000000000398
+t1348865696
+s920
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.o
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch.pth
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app.dSYM
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default.png
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default@2x.png
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Info.plist
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/PkgInfo
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/IMViewController_iPad.nib
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/IMViewController_iPhone.nib
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMAppDelegate.m
+c000000005065942E0000000000000A0F
+t1348834350
+s2575
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewController.m
+c0000000050660EA00000000000000B0C
+t1348865696
+s2828
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch
+c000000005065942E000000000000015D
+t1348834350
+s349
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage.m
+c0000000050660EA000000000000027F9
+t1348865696
+s10233
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPad.xib
+c000000005065942E000000000000148F
+t1348834350
+s5263
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPhone.xib
+c0000000050660EA00000000000002C68
+t1348865696
+s11368
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/InfoPlist.strings
+c000000005065942E000000000000002D
+t1348834350
+s45
+
+N/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/main.m
+c000000005065942E0000000000000176
+t1348834350
+s374
+
+NIMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist
+c000000005065942E00000000000005AE
+t1348834350
+s1454
+
+CBuild AST from /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMAppDelegate.m
+r0
+
+CBuild AST from /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewController.m
+r0
+
+CBuild AST from /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage.m
+r0
+
+CBuild AST from /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies01c158204616b641^1e546a204616b641^---0#1#0#--18"Check dependencies36"11B1F0F7-E2A9-4680-A556-DD9183EED6F1-
+
+CCompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMAppDelegate.o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370558496.895289
+e370558497.037144
+r1
+xCompileC
+xDerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMAppDelegate.o
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMAppDelegate.m588de5204616b641^08ca09214616b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMAppDelegate.m0000000000000000^4815"CompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMAppDelegate.o IMViewWithBorderedImage/IMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-generated-files.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-own-target-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-all-target-headers.hmap -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-project-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources/i386 -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources -F/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator -include /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch -MMD -MT dependencies -MF /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMAppDelegate.d --serialize-diagnostics /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMAppDelegate.dia -c /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMAppDelegate.m -o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMAppDelegate.o36"D2282D1A-BB01-4F4F-AC07-3BBFFE5DEDC7-
+
+CCompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewController.o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370558496.895243
+e370558497.036945
+r1
+xCompileC
+xDerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewController.o
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewController.medbce5204616b641^b5c509214616b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewController.m0000000000000000^4833"CompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewController.o IMViewWithBorderedImage/IMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-generated-files.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-own-target-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-all-target-headers.hmap -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-project-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources/i386 -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources -F/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator -include /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch -MMD -MT dependencies -MF /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewController.d --serialize-diagnostics /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewController.dia -c /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewController.m -o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewController.o36"CAD293FD-4459-433D-990D-9A9B764EA053-
+
+CCompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370558496.896219
+e370558497.068817
+r1
+xCompileC
+xDerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.o
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage.mefc7e5204616b641^849e11214616b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage.m0000000000000000^4875"CompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.o IMViewWithBorderedImage/IMViewWithBorderedImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-generated-files.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-own-target-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-all-target-headers.hmap -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-project-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources/i386 -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources -F/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator -include /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch -MMD -MT dependencies -MF /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.d --serialize-diagnostics /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.dia -c /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage.m -o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.o36"14D6F9D3-A131-4620-9A75-7692871E963F-
+
+CCompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/main.o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370558496.895211
+e370558497.019202
+r1
+xCompileC
+xDerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/main.o
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/main.mda92e5204616b641^66f704214616b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/main.m0000000000000000^4761"CompileC DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/main.o IMViewWithBorderedImage/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-generated-files.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-own-target-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-all-target-headers.hmap -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-project-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources/i386 -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources -F/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator -include /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch -MMD -MT dependencies -MF /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/main.dia -c /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/main.m -o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/main.o36"CF0B942A-B3ED-4F2C-8053-D1DED7BF16D0-
+
+CCompileXIB /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPad.xib
+s370558497.326301
+e370558498.515459
+r1
+xCompileXIB
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPad.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compiling /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPad.xibb9a753214616b641^83f983224616b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPad.xib0000000000000000^1076"CompileXIB IMViewWithBorderedImage/en.lproj/IMViewController_iPad.xib    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/IMViewController_iPad.nib /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPad.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"41462A5F-21ED-4131-A006-844265461E62-
+
+CCompileXIB /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPhone.xib
+s370558497.326251
+e370558498.526731
+r1
+xCompileXIB
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPhone.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compiling /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPhone.xib49a253214616b641^b9e286224616b641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPhone.xib0000000000000000^1082"CompileXIB IMViewWithBorderedImage/en.lproj/IMViewController_iPhone.xib    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/IMViewController_iPhone.nib /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/IMViewController_iPhone.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"87807A5E-7DA3-4940-A22E-2EF69F0F0AB0-
+
+CCopyStringsFile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/InfoPlist.strings IMViewWithBorderedImage/en.lproj/InfoPlist.strings
+s370558497.321653
+e370558497.329107
+r1
+xCopyStringsFile
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/InfoPlist.strings
+xIMViewWithBorderedImage/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy IMViewWithBorderedImage/en.lproj/InfoPlist.strings1a8752214616b641^994554214616b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/en.lproj/InfoPlist.strings0000000000000000^761"CopyStringsFile DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj/InfoPlist.strings IMViewWithBorderedImage/en.lproj/InfoPlist.strings    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/en.lproj -- IMViewWithBorderedImage/en.lproj/InfoPlist.strings36"F6AE615A-88F5-4649-8B14-3E30B0BEA994-
+
+CCpResource IMViewWithBorderedImage/Default-568h@2x.png DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default-568h@2x.png
+s370558497.321874
+e370558497.327621
+r1
+xCpResource
+xIMViewWithBorderedImage/Default-568h@2x.png
+xDerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default-568h@2x.pngb27f52214616b641^1ee253214616b641^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default-568h@2x.png000000000080d041^806"CpResource "IMViewWithBorderedImage/Default-568h@2x.png" "DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default-568h@2x.png"    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/Default-568h@2x.png" /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app36"982FB36C-907B-4DF3-9F3F-FBA315557DA4-
+
+CCpResource IMViewWithBorderedImage/Default.png DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default.png
+s370558497.321659
+e370558497.325981
+r1
+xCpResource
+xIMViewWithBorderedImage/Default.png
+xDerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default.png677d52214616b641^157453214616b641^---0#0#0#-19%DVTDocumentLocation2@183"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default.png000000000080d041^776"CpResource IMViewWithBorderedImage/Default.png DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default.png    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/Default.png /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app36"A6520A73-C46F-4DB1-9EBA-0AC5665A7F56-
+
+CCpResource IMViewWithBorderedImage/Default@2x.png DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default@2x.png
+s370558497.321667
+e370558497.325020
+r1
+xCpResource
+xIMViewWithBorderedImage/Default@2x.png
+xDerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default@2x.pngaa7d52214616b641^613453214616b641^---0#0#0#-19%DVTDocumentLocation2@186"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default@2x.png000000000080d041^791"CpResource "IMViewWithBorderedImage/Default@2x.png" "DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Default@2x.png"    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/Default@2x.png" /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app36"286C7DB6-E2D4-4E9B-B7E1-BD48BFD4A158-
+
+CGenerateDSYMFile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app.dSYM /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage
+s370558497.271015
+e370558497.313534
+r1
+xGenerateDSYMFile
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app.dSYM
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Generating /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app.dSYM217745214616b641^7c4450214616b641^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app.dSYM000000000080d041^949"GenerateDSYMFile DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app.dSYM DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage -o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app.dSYM36"FA31B5FF-C4A0-4055-984A-1C62E66A8ADD-
+
+CLd /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage normal i386
+s370558497.075846
+e370558497.264081
+r1
+xLd
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection184"Link /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImagecf8313214616b641^cc9b43214616b641^---0#0#0#--1569"Ld DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage normal i386    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator -F/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator -filelist /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/Objects-normal/i386/IMViewWithBorderedImage.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/IMViewWithBorderedImage36"A0B8F9A3-64DE-4D03-BE3A-DFDAD378612E-
+
+CProcessInfoPlistFile /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Info.plist IMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist
+s370558496.422025
+e370558496.427536
+r1
+xProcessInfoPlistFile
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Info.plist
+xIMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Process IMViewWithBorderedImage/IMViewWithBorderedImage-Info.plistf0356c204616b641^de3e6f204616b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist0000000000000000^945"ProcessInfoPlistFile DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Info.plist IMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist -genpkginfo /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app/Info.plist36"E3691459-6E08-4DC1-9B75-E59D327DD56C-
+
+CProcessPCH /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch.pth IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370558496.435144
+e370558496.888146
+r1
+xProcessPCH
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch.pth
+xIMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Precompile IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch8fa96f204616b641^d15ce3204616b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch0000000000000000^4624"ProcessPCH DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch.pth IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-generated-files.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-own-target-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-all-target-headers.hmap -iquote /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/IMViewWithBorderedImage-project-headers.hmap -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources/i386 -I/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/IMViewWithBorderedImage.build/Debug-iphonesimulator/IMViewWithBorderedImage.build/DerivedSources -F/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch.dia -c /Users/laGrave/Development/IOS/IMViewWithBorderedImage/IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch -o /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch.pth -MMD -MT dependencies -MF /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Intermediates/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-dqzrfxemknxazvcyfnuasgaffxcv/IMViewWithBorderedImage-Prefix.pch.d36"D25C4BD5-6530-4AC2-A8A1-5AF7C8EF0B50-
+
+CProcessPCH /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Index/PrecompiledHeaders/IMViewWithBorderedImage-Prefix-bzlbtglgfcfwychictjmavraukez_ast/IMViewWithBorderedImage-Prefix.pch.pth IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app
+s370558498.535400
+e370558498.563377
+r1
+xTouch
+x/Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection161"Touch /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.appcc2989224616b641^b07290224616b641^---0#0#0#--542"Touch DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app    cd /Users/laGrave/Development/IOS/IMViewWithBorderedImage    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/laGrave/Development/IOS/IMViewWithBorderedImage/DerivedData/IMViewWithBorderedImage/Build/Products/Debug-iphonesimulator/IMViewWithBorderedImage.app36"97443055-1321-4EC5-9178-C5BF1C4987ED-
+

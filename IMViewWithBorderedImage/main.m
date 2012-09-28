@@ -1,0 +1,18 @@
+//
+//  main.m
+//  IMViewWithBorderedImage
+//
+//  Created by Игорь Мищенко on 28.09.12.
+//  Copyright (c) 2012 Igor Mischenko. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "IMAppDelegate.h"
+
+int main(int argc, char *argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([IMAppDelegate class]));
+    }
+}
