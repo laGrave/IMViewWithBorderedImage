@@ -18,6 +18,7 @@
 		B040ADEA1615CBAE003DA365 /* IMViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = B040ADE81615CBAE003DA365 /* IMViewController_iPad.xib */; };
 		B061F3341651095400A9ECEC /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B061F3331651095400A9ECEC /* QuartzCore.framework */; };
 		B061F3E71654D37C00A9ECEC /* IMViewWithBorderedImage.m in Sources */ = {isa = PBXBuildFile; fileRef = B061F3E51654D37C00A9ECEC /* IMViewWithBorderedImage.m */; };
+		B061F3F91654DAFE00A9ECEC /* UINavigationController+ios6fix.m in Sources */ = {isa = PBXBuildFile; fileRef = B061F3F81654DAFD00A9ECEC /* UINavigationController+ios6fix.m */; };
 		B0A0039C1616471A007F6638 /* IMContentModeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0A0039B1616471A007F6638 /* IMContentModeTableViewController.m */; };
 		B0E188181616545C00FCA0C3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B0E188171616545C00FCA0C3 /* Default-568h@2x.png */; };
 		B0F438B6161B48D5001BE6E3 /* IMColorTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0F438B5161B48D5001BE6E3 /* IMColorTableViewController.m */; };
@@ -41,6 +42,8 @@
 		B061F3331651095400A9ECEC /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		B061F3E51654D37C00A9ECEC /* IMViewWithBorderedImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMViewWithBorderedImage.m; sourceTree = "<group>"; };
 		B061F3E61654D37C00A9ECEC /* IMViewWithBorderedImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMViewWithBorderedImage.h; sourceTree = "<group>"; };
+		B061F3F71654DAFD00A9ECEC /* UINavigationController+ios6fix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+ios6fix.h"; sourceTree = "<group>"; };
+		B061F3F81654DAFD00A9ECEC /* UINavigationController+ios6fix.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+ios6fix.m"; sourceTree = "<group>"; };
 		B0A0039A1616471A007F6638 /* IMContentModeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMContentModeTableViewController.h; sourceTree = "<group>"; };
 		B0A0039B1616471A007F6638 /* IMContentModeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMContentModeTableViewController.m; sourceTree = "<group>"; };
 		B0E188171616545C00FCA0C3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
@@ -102,8 +105,10 @@
 				B0F438B5161B48D5001BE6E3 /* IMColorTableViewController.m */,
 				B0A0039A1616471A007F6638 /* IMContentModeTableViewController.h */,
 				B0A0039B1616471A007F6638 /* IMContentModeTableViewController.m */,
-				B061F3E51654D37C00A9ECEC /* IMViewWithBorderedImage.m */,
 				B061F3E61654D37C00A9ECEC /* IMViewWithBorderedImage.h */,
+				B061F3E51654D37C00A9ECEC /* IMViewWithBorderedImage.m */,
+				B061F3F71654DAFD00A9ECEC /* UINavigationController+ios6fix.h */,
+				B061F3F81654DAFD00A9ECEC /* UINavigationController+ios6fix.m */,
 				B040ADE51615CBAE003DA365 /* IMViewController_iPhone.xib */,
 				B040ADE81615CBAE003DA365 /* IMViewController_iPad.xib */,
 				B040ADD11615CBAE003DA365 /* Supporting Files */,
@@ -195,6 +200,7 @@
 				B0A0039C1616471A007F6638 /* IMContentModeTableViewController.m in Sources */,
 				B0F438B6161B48D5001BE6E3 /* IMColorTableViewController.m in Sources */,
 				B061F3E71654D37C00A9ECEC /* IMViewWithBorderedImage.m in Sources */,
+				B061F3F91654DAFE00A9ECEC /* UINavigationController+ios6fix.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
