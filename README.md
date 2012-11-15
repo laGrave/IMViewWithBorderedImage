@@ -5,11 +5,11 @@ IMViewWithBorderedImage is a subclass of UIView which can present an image and b
   
 &nbsp;
 ## Why not subclassing UIImageView
-___
+===
 First of all I want to get the ability for setting some space between border and image. It means that image should not necessarily lays edge to edge. So I've made it with `drawInRect:` method but not just setting `imageView.image` property.
 
 ## How it looks like
-___
+===
 
 ##### Standart representation of view. No borders, no offset and content mode is "scale to fill"
 
@@ -30,7 +30,7 @@ ___
 
 
 ## Installation
-___
+===
 	  
 * Drag IMViewWithBorderedImage.h\.m files into your project.
 * Add the **QuartzCore** framework to you project
@@ -39,7 +39,7 @@ ___
 
 &nbsp;
 ## Usage
-___
+===
 (see example XCode project demo)
 
 You just create with `alloc\initWithFrame:` like any another UIView and start to setup it's properties:
@@ -61,7 +61,9 @@ You just create with `alloc\initWithFrame:` like any another UIView and start to
 
 License
 -------
-Copyright (c) 2012 Igor Mischenko ([my russian blog](http://lagrave.weebly.com)). All rights reserved.
+MIT Licence
+
+Copyright (c) 2012 Igor Mischenko ([russian blog](http://lagrave.weebly.com)). All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
