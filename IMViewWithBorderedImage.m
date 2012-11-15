@@ -2,8 +2,8 @@
 //  IMViewWithBorderedImage.m
 //  UIViewExtension
 //
-//  Created by Игорь Мищенко on 28.08.12.
-//  Copyright (c) 2012 Игорь Мищенко. All rights reserved.
+//  Created by Igor Mischenko on 28.08.12.
+//  Copyright (c) 2012 Igor Mischenko. All rights reserved.
 //
 
 #import "IMViewWithBorderedImage.h"
