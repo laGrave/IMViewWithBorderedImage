@@ -66,7 +66,8 @@
 		B040ADBB1615CBAE003DA365 = {
 			isa = PBXGroup;
 			children = (
-				B040ADD01615CBAE003DA365 /* IMViewWithBorderedImage */,
+				B0563FD9165521B90037013B /* IMViewWithBorderedImage */,
+				B040ADD01615CBAE003DA365 /* Demo */,
 				B040ADC91615CBAE003DA365 /* Frameworks */,
 				B040ADC71615CBAE003DA365 /* Products */,
 			);
@@ -91,7 +92,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		B040ADD01615CBAE003DA365 /* IMViewWithBorderedImage */ = {
+		B040ADD01615CBAE003DA365 /* Demo */ = {
 			isa = PBXGroup;
 			children = (
 				B040ADD91615CBAE003DA365 /* IMAppDelegate.h */,
@@ -102,12 +103,11 @@
 				B0F438B5161B48D5001BE6E3 /* IMColorTableViewController.m */,
 				B0A0039A1616471A007F6638 /* IMContentModeTableViewController.h */,
 				B0A0039B1616471A007F6638 /* IMContentModeTableViewController.m */,
-				B0563FD51654F9D90037013B /* IMViewWithBorderedImage.h */,
-				B0563FD61654F9D90037013B /* IMViewWithBorderedImage.m */,
 				B040ADE51615CBAE003DA365 /* IMViewController_iPhone.xib */,
 				B040ADE81615CBAE003DA365 /* IMViewController_iPad.xib */,
 				B040ADD11615CBAE003DA365 /* Supporting Files */,
 			);
+			name = Demo;
 			path = IMViewWithBorderedImage;
 			sourceTree = "<group>";
 		};
@@ -121,6 +121,15 @@
 				B0E188171616545C00FCA0C3 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B0563FD9165521B90037013B /* IMViewWithBorderedImage */ = {
+			isa = PBXGroup;
+			children = (
+				B0563FD51654F9D90037013B /* IMViewWithBorderedImage.h */,
+				B0563FD61654F9D90037013B /* IMViewWithBorderedImage.m */,
+			);
+			path = IMViewWithBorderedImage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
