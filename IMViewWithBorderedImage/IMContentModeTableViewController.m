@@ -2,7 +2,7 @@
 //  IMContentModeTableViewController.m
 //  IMViewWithBorderedImage
 //
-//  Created by Игорь Мищенко on 29.09.12.
+//  Created by Igor Mischenko on 29.09.12.
 //  Copyright (c) 2012 Igor Mischenko. All rights reserved.
 //
 

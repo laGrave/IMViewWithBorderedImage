@@ -2,7 +2,7 @@
 //  IMAppDelegate.m
 //  IMViewWithBorderedImage
 //
-//  Created by Игорь Мищенко on 28.09.12.
+//  Created by Igor Mischenko on 28.09.12.
 //  Copyright (c) 2012 Igor Mischenko. All rights reserved.
 //
 
@@ -51,6 +51,14 @@
 - (void)applicationWillTerminate:(UIApplication *)application
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+}
+
+-(NSUInteger)application:(UIApplication *)application supportedInterfaceOrientationsForWindow:(UIWindow *)window
+{
+    if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+        return UIInterfaceOrientationMaskAll;
+    else  /* iphone */
+        return UIInterfaceOrientationMaskPortrait;
 }
 
 @end

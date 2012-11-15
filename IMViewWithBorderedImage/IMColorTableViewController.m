@@ -2,7 +2,7 @@
 //  IMColorTableViewController.m
 //  IMViewWithBorderedImage
 //
-//  Created by Игорь Мищенко on 02.10.12.
+//  Created by Igor Mischenko on 02.10.12.
 //  Copyright (c) 2012 Igor Mischenko. All rights reserved.
 //
 
