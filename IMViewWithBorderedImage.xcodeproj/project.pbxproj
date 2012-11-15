@@ -1,0 +1,330 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B040ADCB1615CBAE003DA365 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B040ADCA1615CBAE003DA365 /* UIKit.framework */; };
+		B040ADCD1615CBAE003DA365 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B040ADCC1615CBAE003DA365 /* Foundation.framework */; };
+		B040ADCF1615CBAE003DA365 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B040ADCE1615CBAE003DA365 /* CoreGraphics.framework */; };
+		B040ADD51615CBAE003DA365 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B040ADD31615CBAE003DA365 /* InfoPlist.strings */; };
+		B040ADD71615CBAE003DA365 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B040ADD61615CBAE003DA365 /* main.m */; };
+		B040ADDB1615CBAE003DA365 /* IMAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B040ADDA1615CBAE003DA365 /* IMAppDelegate.m */; };
+		B040ADE41615CBAE003DA365 /* IMViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B040ADE31615CBAE003DA365 /* IMViewController.m */; };
+		B040ADE71615CBAE003DA365 /* IMViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = B040ADE51615CBAE003DA365 /* IMViewController_iPhone.xib */; };
+		B040ADEA1615CBAE003DA365 /* IMViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = B040ADE81615CBAE003DA365 /* IMViewController_iPad.xib */; };
+		B061F3341651095400A9ECEC /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B061F3331651095400A9ECEC /* QuartzCore.framework */; };
+		B061F3E71654D37C00A9ECEC /* IMViewWithBorderedImage.m in Sources */ = {isa = PBXBuildFile; fileRef = B061F3E51654D37C00A9ECEC /* IMViewWithBorderedImage.m */; };
+		B0A0039C1616471A007F6638 /* IMContentModeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0A0039B1616471A007F6638 /* IMContentModeTableViewController.m */; };
+		B0E188181616545C00FCA0C3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B0E188171616545C00FCA0C3 /* Default-568h@2x.png */; };
+		B0F438B6161B48D5001BE6E3 /* IMColorTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0F438B5161B48D5001BE6E3 /* IMColorTableViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B040ADC61615CBAE003DA365 /* IMViewWithBorderedImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IMViewWithBorderedImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B040ADCA1615CBAE003DA365 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		B040ADCC1615CBAE003DA365 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		B040ADCE1615CBAE003DA365 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		B040ADD21615CBAE003DA365 /* IMViewWithBorderedImage-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "IMViewWithBorderedImage-Info.plist"; sourceTree = "<group>"; };
+		B040ADD41615CBAE003DA365 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B040ADD61615CBAE003DA365 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B040ADD81615CBAE003DA365 /* IMViewWithBorderedImage-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IMViewWithBorderedImage-Prefix.pch"; sourceTree = "<group>"; };
+		B040ADD91615CBAE003DA365 /* IMAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IMAppDelegate.h; sourceTree = "<group>"; };
+		B040ADDA1615CBAE003DA365 /* IMAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IMAppDelegate.m; sourceTree = "<group>"; };
+		B040ADE21615CBAE003DA365 /* IMViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IMViewController.h; sourceTree = "<group>"; };
+		B040ADE31615CBAE003DA365 /* IMViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IMViewController.m; sourceTree = "<group>"; };
+		B040ADE61615CBAE003DA365 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/IMViewController_iPhone.xib; sourceTree = "<group>"; };
+		B040ADE91615CBAE003DA365 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/IMViewController_iPad.xib; sourceTree = "<group>"; };
+		B061F3331651095400A9ECEC /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		B061F3E51654D37C00A9ECEC /* IMViewWithBorderedImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMViewWithBorderedImage.m; sourceTree = "<group>"; };
+		B061F3E61654D37C00A9ECEC /* IMViewWithBorderedImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMViewWithBorderedImage.h; sourceTree = "<group>"; };
+		B0A0039A1616471A007F6638 /* IMContentModeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMContentModeTableViewController.h; sourceTree = "<group>"; };
+		B0A0039B1616471A007F6638 /* IMContentModeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMContentModeTableViewController.m; sourceTree = "<group>"; };
+		B0E188171616545C00FCA0C3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
+		B0F438B4161B48D5001BE6E3 /* IMColorTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMColorTableViewController.h; sourceTree = "<group>"; };
+		B0F438B5161B48D5001BE6E3 /* IMColorTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMColorTableViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B040ADC31615CBAE003DA365 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B061F3341651095400A9ECEC /* QuartzCore.framework in Frameworks */,
+				B040ADCB1615CBAE003DA365 /* UIKit.framework in Frameworks */,
+				B040ADCD1615CBAE003DA365 /* Foundation.framework in Frameworks */,
+				B040ADCF1615CBAE003DA365 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B040ADBB1615CBAE003DA365 = {
+			isa = PBXGroup;
+			children = (
+				B040ADD01615CBAE003DA365 /* IMViewWithBorderedImage */,
+				B040ADC91615CBAE003DA365 /* Frameworks */,
+				B040ADC71615CBAE003DA365 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B040ADC71615CBAE003DA365 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B040ADC61615CBAE003DA365 /* IMViewWithBorderedImage.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B040ADC91615CBAE003DA365 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B061F3331651095400A9ECEC /* QuartzCore.framework */,
+				B040ADCA1615CBAE003DA365 /* UIKit.framework */,
+				B040ADCC1615CBAE003DA365 /* Foundation.framework */,
+				B040ADCE1615CBAE003DA365 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B040ADD01615CBAE003DA365 /* IMViewWithBorderedImage */ = {
+			isa = PBXGroup;
+			children = (
+				B040ADD91615CBAE003DA365 /* IMAppDelegate.h */,
+				B040ADDA1615CBAE003DA365 /* IMAppDelegate.m */,
+				B040ADE21615CBAE003DA365 /* IMViewController.h */,
+				B040ADE31615CBAE003DA365 /* IMViewController.m */,
+				B0F438B4161B48D5001BE6E3 /* IMColorTableViewController.h */,
+				B0F438B5161B48D5001BE6E3 /* IMColorTableViewController.m */,
+				B0A0039A1616471A007F6638 /* IMContentModeTableViewController.h */,
+				B0A0039B1616471A007F6638 /* IMContentModeTableViewController.m */,
+				B061F3E51654D37C00A9ECEC /* IMViewWithBorderedImage.m */,
+				B061F3E61654D37C00A9ECEC /* IMViewWithBorderedImage.h */,
+				B040ADE51615CBAE003DA365 /* IMViewController_iPhone.xib */,
+				B040ADE81615CBAE003DA365 /* IMViewController_iPad.xib */,
+				B040ADD11615CBAE003DA365 /* Supporting Files */,
+			);
+			path = IMViewWithBorderedImage;
+			sourceTree = "<group>";
+		};
+		B040ADD11615CBAE003DA365 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B040ADD21615CBAE003DA365 /* IMViewWithBorderedImage-Info.plist */,
+				B040ADD31615CBAE003DA365 /* InfoPlist.strings */,
+				B040ADD61615CBAE003DA365 /* main.m */,
+				B040ADD81615CBAE003DA365 /* IMViewWithBorderedImage-Prefix.pch */,
+				B0E188171616545C00FCA0C3 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B040ADC51615CBAE003DA365 /* IMViewWithBorderedImage */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B040ADED1615CBAE003DA365 /* Build configuration list for PBXNativeTarget "IMViewWithBorderedImage" */;
+			buildPhases = (
+				B040ADC21615CBAE003DA365 /* Sources */,
+				B040ADC31615CBAE003DA365 /* Frameworks */,
+				B040ADC41615CBAE003DA365 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IMViewWithBorderedImage;
+			productName = IMViewWithBorderedImage;
+			productReference = B040ADC61615CBAE003DA365 /* IMViewWithBorderedImage.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B040ADBD1615CBAE003DA365 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = IM;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Igor Mischenko";
+			};
+			buildConfigurationList = B040ADC01615CBAE003DA365 /* Build configuration list for PBXProject "IMViewWithBorderedImage" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = B040ADBB1615CBAE003DA365;
+			productRefGroup = B040ADC71615CBAE003DA365 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B040ADC51615CBAE003DA365 /* IMViewWithBorderedImage */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B040ADC41615CBAE003DA365 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B040ADD51615CBAE003DA365 /* InfoPlist.strings in Resources */,
+				B040ADE71615CBAE003DA365 /* IMViewController_iPhone.xib in Resources */,
+				B040ADEA1615CBAE003DA365 /* IMViewController_iPad.xib in Resources */,
+				B0E188181616545C00FCA0C3 /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B040ADC21615CBAE003DA365 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B040ADD71615CBAE003DA365 /* main.m in Sources */,
+				B040ADDB1615CBAE003DA365 /* IMAppDelegate.m in Sources */,
+				B040ADE41615CBAE003DA365 /* IMViewController.m in Sources */,
+				B0A0039C1616471A007F6638 /* IMContentModeTableViewController.m in Sources */,
+				B0F438B6161B48D5001BE6E3 /* IMColorTableViewController.m in Sources */,
+				B061F3E71654D37C00A9ECEC /* IMViewWithBorderedImage.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B040ADD31615CBAE003DA365 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B040ADD41615CBAE003DA365 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B040ADE51615CBAE003DA365 /* IMViewController_iPhone.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B040ADE61615CBAE003DA365 /* en */,
+			);
+			name = IMViewController_iPhone.xib;
+			sourceTree = "<group>";
+		};
+		B040ADE81615CBAE003DA365 /* IMViewController_iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B040ADE91615CBAE003DA365 /* en */,
+			);
+			name = IMViewController_iPad.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B040ADEB1615CBAE003DA365 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B040ADEC1615CBAE003DA365 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B040ADEE1615CBAE003DA365 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch";
+				INFOPLIST_FILE = "IMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		B040ADEF1615CBAE003DA365 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "IMViewWithBorderedImage/IMViewWithBorderedImage-Prefix.pch";
+				INFOPLIST_FILE = "IMViewWithBorderedImage/IMViewWithBorderedImage-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B040ADC01615CBAE003DA365 /* Build configuration list for PBXProject "IMViewWithBorderedImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B040ADEB1615CBAE003DA365 /* Debug */,
+				B040ADEC1615CBAE003DA365 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B040ADED1615CBAE003DA365 /* Build configuration list for PBXNativeTarget "IMViewWithBorderedImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B040ADEE1615CBAE003DA365 /* Debug */,
+				B040ADEF1615CBAE003DA365 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B040ADBD1615CBAE003DA365 /* Project object */;
+}
