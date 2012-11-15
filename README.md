@@ -1,4 +1,5 @@
 # IMViewWithBorderedImage
+===
 
 IMViewWithBorderedImage is a subclass of UIView which can present an image and border around it. 
   
